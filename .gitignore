@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Training + Testing Dataset
+bengali-sign-language-dataset/
+bengali-sign-language-dataset.zip
+
+#Miscellaneous
+.DS_Store
